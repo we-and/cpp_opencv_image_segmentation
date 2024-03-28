@@ -1,0 +1,1 @@
+g++ -o my_program main.cpp -std=c++11 -I/opt/homebrew/opt/opencv/include/opencv4 `pkg-config --cflags --libs opencv4`
